@@ -1,0 +1,9 @@
+git init (intialise)
+git add . (add current directory)
+git add foldername
+git status
+git commit -m "Commit message"
+git remote add origin https://github.com/AbhiFalcao/RailsIntro.git
+git push -u origin master (for initial setup)
+git log (for local commit history)
+git diff (to know the differences)

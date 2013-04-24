@@ -1,6 +1,6 @@
 #Author : Abhi Falcao
 
-first_name = "Abhijit" 
+first_name = gets 
 middle_name = "Domnic"
 last_name = "Falcao"
 age = 33
